@@ -18,7 +18,7 @@ const GsapStagger = () => {
         grid:[2,1],
         axis:'y',
         ease:'cric.inOut',
-        
+        // from:'center',
       }
     })
   })
